@@ -1,0 +1,23 @@
+body{
+    background-color: #9EDEC6;
+    margin: 200px;
+}
+#title{
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 30px;
+    color: #32926F;
+}
+#heading1{
+    font-family: 'Cedarville Cursive', cursive;
+    color: #3eb489;
+}
+#heading2{
+    font-family: 'Cedarville Cursive', cursive;
+    color: #3eb489;
+}
+#par1{
+    font-family: 'Poppins', sans-serif;
+}
+#par2{
+    font-family: 'Poppins', sans-serif;
+}
